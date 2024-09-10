@@ -1,2 +1,2 @@
 # TargetTeste
-teste do processo sletivo para estagio na empressa Target
+teste do processo seletivo para estagio na empressa Target
